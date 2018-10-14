@@ -1,0 +1,138 @@
+* Pan
+** Levadura
+*** Ingredientes
+   - 1 Kg harina de fuerza
+   - 570 gr de Agua
+   - 17 gr de Sal
+   - 20 gr de levadura fresca
+
+*** Instrucciones
+   - Disolver la levadura en el agua templada
+   - Añadimos el agua con levadura a la harina y la dejamos reposar 30 minutos
+   - Añadimos la sal y amasamos durante unos 10 minutos.
+   - Untamos un bol con un poco de aceite y dejamos reposar la masa tapáda con film, estirando la masa por los 4 bordes para que coja tensión. Este paso lo repetiremos 4 veces en intervalos de 30 minutos
+   - Dejamos reposar el pan 24h en la nevera
+
+** Masa Madre Trigo
+
+| Ingrediente | Porcentaje |
+|-------------+------------|
+| Harina      |       100% |
+| Agua        |        65% |
+| Masa Madre  |        16% |
+| Sal         |         2% |
+|-------------+------------|
+
+*** Pan de 1Kg
+
+| Ingrediente | Cantidad |
+|-------------+----------|
+| Harina      | 509 g    |
+| Agua        | 297 g    |
+| Masa Madre  | 193 g    |
+| Sal         | 12 g     |
+|-------------+----------|
+
+** Masa Madre Centeno
+
+| Ingrediente | Porcentaje |
+|-------------+------------|
+| Harina      |       100% |
+| Agua        |      67.5% |
+| Masa Madre  |        18% |
+| Sal         |         2% |
+|-------------+------------|
+
+*** Pan de 1Kg
+Ingredientes e instrucciones para una temperatura ambiente de 25º
+
+| Ingrediente | Cantidad |
+|-------------+----------|
+| Harina      | 490 g    |
+| Agua        | 295.5 g  |
+| Masa Madre  | 215 g    |
+| Sal         | 12 g     |
+|-------------+----------|
+
+- Electrolisis de 30 minutos, 3 o 4 rondas de amasado francés durante un par de minutos con reposos de 5 minutos.
+- 3 plagados a intervalos de 30 minutos.
+- Primera fermentación en la nevara durante toda la noche.
+- Por la mañana, sacar de la nevera y dejar atemperar durante 45 minutos.
+- Boleado y segunda fermentación durante 2 horas en banetone.
+- Hornear al maximo durante unos 14 minutos añadiendo humedad.
+- Hornear a 200º durante 30 minutos mas.
+
+
+***** Excepciones
+- Harina fuerza Haricaman: + 20gr agua.
+* Pizzas
+** Levadura
+| Ingredientes         | Cantidad |
+|----------------------+----------|
+| Harina normal        | 400 gr   |
+| Sémola fina de Trigo | 100 gr   |
+| Levadura Fresca      | 5 gr     |
+| Aceite de Oliva      | 20 gr    |
+| Agua                 | 320 gr   |
+| Sal                  | 10 gr    |
+|                      |          |
+** Masa Madre
+
+| Ingredientes  | Cantidad |
+|---------------+----------|
+| Harina normal | 410 gr   |
+| Agua          | 210 gr   |
+| Masa Madre    | 145 gr   |
+| Sal           | 10 gr    |
+|               |          |
+* Salsas
+** Bechamel
+
+- En primer lugar pondremos una sartén al fuego y desharemos la
+  mantequilla. Cuando esté fundida apartaremos la sartén del fuego y
+  añadiremos la harina. Removeremos bien para que se integre la
+  harina.
+- Después añadiremos leche, poco a poco, removiendo bien para que no
+  se hagan grumos.
+- Volveremos a poner la sartén al fuego y no dejaremos de remover para
+  que no se pegue, iremos añadiendo la leche poco a poco para que se
+  vaya integrando.
+- Sin dejar de remover añadiremos la sal y la pimienta y finalmente la nuez moscada al gusto.
+- Si os queda muy espesa, siempre le podéis añadir un poco más de leche, removiendo para que se integre bien.
+
+*** Suave
+
+| Ingredientes | Cantidad |
+|--------------+----------|
+| Leche        | 500 ml   |
+| Harina       | 35 gr    |
+| Mantequilla  | 50 gr    |
+| Sal          |          |
+| Pimienta     |          |
+| Nuez Moscada |          |
+
+* Repostería
+** Galletas de avena (Ikea)
+
+| Ingredientes        | Cantidad |
+|---------------------+----------|
+| Mantequilla sin sal | 200 gr   |
+| Azucar              | 150 gr   |
+| Copos de Avena      | 250 gr   |
+| Harina              | 38 gr    |
+| Huevo               | 1 unidad |
+| Levadura química    | 2 gr     |
+|---------------------+----------|
+** Gofres
+*** Gofres de Lieja
+| Ingredientes    | Cantidad |
+|-----------------+----------|
+| Leche templada  | 100 ml   |
+| Mantequilla     | 150 gr   |
+| Harina normal   | 250 gr   |
+| Levadura Fresca | 10 gr    |
+| Azucar Moreno   | 35 gr    |
+| Azucar Perlado  | 115 gr   |
+| Huevo           | 1 unidad |
+| Canela          |          |
+| Sal             |          |
