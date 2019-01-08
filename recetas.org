@@ -100,6 +100,18 @@ Ingredientes e instrucciones para una temperatura ambiente de 25º
 - Sin dejar de remover añadiremos la sal y la pimienta y finalmente la nuez moscada al gusto.
 - Si os queda muy espesa, siempre le podéis añadir un poco más de leche, removiendo para que se integre bien.
 
+
+*** Normal
+
+| Ingredientes | Cantidad |
+|--------------+----------|
+| Leche        | 400 ml   |
+| Harina       | 45 gr    |
+| Mantequilla  | 50 gr    |
+| Sal          |          |
+| Pimienta     |          |
+| Nuez Moscada |          |
+
 *** Suave
 
 | Ingredientes | Cantidad |
