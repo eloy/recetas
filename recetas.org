@@ -148,3 +148,38 @@ Ingredientes e instrucciones para una temperatura ambiente de 25º
 | Huevo           | 1 unidad |
 | Canela          |          |
 | Sal             |          |
+** Roscón
+[[https://www.elforodelpan.com/viewtopic.php?f=7&t=1321&hilit=roscon][Receta original
+]][[https://www.youtube.com/watch?v=S4_CCMw_4xw][Video]]
+
+*** Prefermento
+
+| Ingredientes     | Cantidad |
+|------------------+----------|
+| Harina de fuerza | 90 gr    |
+| Leche            | 60 gr    |
+| Levadura         | 2 gr     |
+|------------------+----------|
+
+*** Infusión
+| Ingredientes    | Cantidad     |
+|-----------------+--------------|
+| Leche           | 120 gr       |
+| Piel de limón   | 1 unidad     |
+| Piel de naranja | 1 unidad     |
+| Canela en rama  | 1 unidad     |
+| Agua de azahar  | 2 cucharadas |
+| Rón             | 3 cucharadas |
+
+*** Masa Roscón
+
+| Ingredientes       | Cantidad   |
+|--------------------+------------|
+| Prefermento        | 140 gr     |
+| Infusión           | ~120 gr    |
+| Harina de fuerza   | 340 gr     |
+| Azucar             | 80 gr      |
+| Mantequilla        | 60 gr      |
+| Levadura fresca    | 10 gr      |
+| Huevo              | 2 unidades |
+| Ralladura de limón |            |
