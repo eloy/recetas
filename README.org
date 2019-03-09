@@ -1,4 +1,25 @@
-* Pan
+#+TITLE: Recetas de cocina
+#+AUTHOR: Eloy Gómez García
+#+EMAIL: eloy@indeos.es
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:nil
+#+OPTIONS: e:t email:nil f:t inline:t num:t p:nil pri:nil stat:t
+#+OPTIONS: tags:t tasks:t tex:t timestamp:t toc:t todo:t |:t
+#+OPTIONS: ^:nil
+#+CREATOR:
+#+DESCRIPTION:
+#+EXCLUDE_TAGS: noexport
+#+KEYWORDS:
+#+LANGUAGE: es
+#+SELECT_TAGS: export
+
+#+LATEX: \newpage
+#+TOC: headlines 2
+#+LATEX: \newpage
+
+
+* Masas
+** Pan
 ** Levadura
 *** Ingredientes
    - 1 Kg harina de fuerza
@@ -65,7 +86,7 @@ Ingredientes e instrucciones para una temperatura ambiente de 25º
 
 ***** Excepciones
 - Harina fuerza Haricaman: + 20gr agua.
-* Pizzas
+** Pizzas
 ** Levadura
 | Ingredientes         | Cantidad |
 |----------------------+----------|
@@ -85,54 +106,6 @@ Ingredientes e instrucciones para una temperatura ambiente de 25º
 | Masa Madre    | 145 gr   |
 | Sal           | 10 gr    |
 |               |          |
-* Salsas
-** Bechamel
-
-- En primer lugar pondremos una sartén al fuego y desharemos la
-  mantequilla. Cuando esté fundida apartaremos la sartén del fuego y
-  añadiremos la harina. Removeremos bien para que se integre la
-  harina.
-- Después añadiremos leche, poco a poco, removiendo bien para que no
-  se hagan grumos.
-- Volveremos a poner la sartén al fuego y no dejaremos de remover para
-  que no se pegue, iremos añadiendo la leche poco a poco para que se
-  vaya integrando.
-- Sin dejar de remover añadiremos la sal y la pimienta y finalmente la nuez moscada al gusto.
-- Si os queda muy espesa, siempre le podéis añadir un poco más de leche, removiendo para que se integre bien.
-
-
-*** Normal
-
-| Ingredientes | Cantidad |
-|--------------+----------|
-| Leche        | 400 ml   |
-| Harina       | 45 gr    |
-| Mantequilla  | 50 gr    |
-| Sal          |          |
-| Pimienta     |          |
-| Nuez Moscada |          |
-
-*** Suave
-
-| Ingredientes | Cantidad |
-|--------------+----------|
-| Leche        | 500 ml   |
-| Harina       | 35 gr    |
-| Mantequilla  | 50 gr    |
-| Sal          |          |
-| Pimienta     |          |
-| Nuez Moscada |          |
-
-* Sushi
-** Sushi-zu
-   Por cada taza de arroz (250 ml)
-
-| Ingredientes     | Cantidad |
-|------------------+----------|
-| Vinagre de arroz | 60 gr    |
-| Azucar           | 30 gr    |
-| Sal              | 1,5 gr   |
-|                  |          |
 * Repostería
 ** Galletas de avena (Ikea)
 
@@ -193,3 +166,50 @@ Ingredientes e instrucciones para una temperatura ambiente de 25º
 | Levadura fresca    | 10 gr      |
 | Huevo              | 2 unidades |
 | Ralladura de limón |            |
+* Salsas y Aliños
+** Bechamel
+
+- En primer lugar pondremos una sartén al fuego y desharemos la
+  mantequilla. Cuando esté fundida apartaremos la sartén del fuego y
+  añadiremos la harina. Removeremos bien para que se integre la
+  harina.
+- Después añadiremos leche, poco a poco, removiendo bien para que no
+  se hagan grumos.
+- Volveremos a poner la sartén al fuego y no dejaremos de remover para
+  que no se pegue, iremos añadiendo la leche poco a poco para que se
+  vaya integrando.
+- Sin dejar de remover añadiremos la sal y la pimienta y finalmente la nuez moscada al gusto.
+- Si os queda muy espesa, siempre le podéis añadir un poco más de leche, removiendo para que se integre bien.
+
+
+*** Normal
+
+| Ingredientes | Cantidad |
+|--------------+----------|
+| Leche        | 400 ml   |
+| Harina       | 45 gr    |
+| Mantequilla  | 50 gr    |
+| Sal          |          |
+| Pimienta     |          |
+| Nuez Moscada |          |
+
+*** Suave
+
+| Ingredientes | Cantidad |
+|--------------+----------|
+| Leche        | 500 ml   |
+| Harina       | 35 gr    |
+| Mantequilla  | 50 gr    |
+| Sal          |          |
+| Pimienta     |          |
+| Nuez Moscada |          |
+
+** Sushi-zu
+   Por cada taza de arroz (250 ml)
+
+| Ingredientes     | Cantidad |
+|------------------+----------|
+| Vinagre de arroz | 60 gr    |
+| Azucar           | 30 gr    |
+| Sal              | 1,5 gr   |
+|                  |          |
