@@ -123,6 +123,16 @@ Ingredientes e instrucciones para una temperatura ambiente de 25º
 | Pimienta     |          |
 | Nuez Moscada |          |
 
+* Sushi
+** Sushi-zu
+   Por cada taza de arroz (250 ml)
+
+| Ingredientes     | Cantidad |
+|------------------+----------|
+| Vinagre de arroz | 60 gr    |
+| Azucar           | 30 gr    |
+| Sal              | 1,5 gr   |
+|                  |          |
 * Repostería
 ** Galletas de avena (Ikea)
 
