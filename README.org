@@ -17,6 +17,30 @@
 #+TOC: headlines 2
 #+LATEX: \newpage
 
+* Carnes
+** Hamburguesa
+*** Carne
+
+| Ingredientes                     | Cantidad |
+|----------------------------------+----------|
+| Espaldilla de Ternera            | 800 gr   |
+| Panceta fresca o papada de cerdo | 200 gr   |
+
+Pasar 2 veces por la picadora.
+
+
+*** Marinado
+Soja
+Huevo
+Ajo picado
+Romero
+Pimienta negra molida
+Jengibre molido
+Cardamomo
+
+
+Añadir la sal justo antes de cocinar.
+
 
 * Masas
 ** Pan
@@ -105,6 +129,7 @@ Ingredientes e instrucciones para una temperatura ambiente de 25º
 | Agua          | 210 gr   |
 | Masa Madre    | 145 gr   |
 | Sal           | 10 gr    |
+|               |          |
 |               |          |
 * Repostería
 ** Galletas de avena (Ikea)
