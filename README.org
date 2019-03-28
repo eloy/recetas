@@ -30,13 +30,16 @@ Pasar 2 veces por la picadora.
 
 
 *** Marinado
-Soja
-Huevo
-Ajo picado
-Romero
-Pimienta negra molida
-Jengibre molido
-Cardamomo
+
+| Ingredientes          |
+|-----------------------|
+| Soja                  |
+| Huevo                 |
+| Ajo picado            |
+| Romero                |
+| Pimienta negra molida |
+| Jengibre molido       |
+| Cardamomo             |
 
 
 Añadir la sal justo antes de cocinar.
