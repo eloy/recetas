@@ -114,7 +114,7 @@ Ingredientes e instrucciones para una temperatura ambiente de 25º
 ***** Excepciones
 - Harina fuerza Haricaman: + 20gr agua.
 ** Pizzas
-** Levadura
+*** Levadura
 | Ingredientes         | Cantidad |
 |----------------------+----------|
 | Harina normal        | 400 gr   |
@@ -124,16 +124,29 @@ Ingredientes e instrucciones para una temperatura ambiente de 25º
 | Agua                 | 320 gr   |
 | Sal                  | 10 gr    |
 |                      |          |
-** Masa Madre
+*** Masa Madre
 
 | Ingredientes  | Cantidad |
 |---------------+----------|
 | Harina normal | 410 gr   |
 | Agua          | 210 gr   |
+| Aceite        | 20 gr    |
 | Masa Madre    | 145 gr   |
 | Sal           | 10 gr    |
 |               |          |
 |               |          |
+*** Masa madre centeno
+| Ingredientes  | Cantidad |
+|---------------+----------|
+| Harina normal | 410 gr   |
+| Agua          | 175 gr   |
+| Aceite        | 20 gr    |
+| Masa Madre    | 180 gr   |
+| Sal           | 10 gr    |
+|               |          |
+|               |          |
+
+
 * Repostería
 ** Galletas de avena (Ikea)
 
@@ -241,3 +254,22 @@ Ingredientes e instrucciones para una temperatura ambiente de 25º
 | Azucar           | 30 gr    |
 | Sal              | 1,5 gr   |
 |                  |          |
+** Strogonoff
+
+
+| Ingredientes      | Cantidad    |
+|-------------------+-------------|
+| Ternera picada    | 400 gr      |
+| Cebolla           | Media       |
+| Ajo               | 1 diente    |
+| Mostaza de Dijón  | 1 cucharada |
+| Coñac             | media copa  |
+| Nata para cocinar | 400ml       |
+| Pimienta negra    |             |
+| Sal               |             |
+
+- Derretimos mantequilla y cocinamos la ternera añadiendo pimienta al gusto.
+- Retiramos la ternera de la sartén junto a sus jugos y echamos la cebolla y el ajo a la sartén hasta que se doren añadiendo pimienta al gusto.
+- Añadimos el coñac y esperamos que se consuma el alcohol.
+- Echamos la ternera y sus jugos de nuevo a la sartén.
+- Añadimos la nata y la cucharada de mostaza de dijón. Ahora es el momento de añadir sal al gusto, y mas pimienta si fuera necesario.
