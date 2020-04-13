@@ -207,6 +207,21 @@ Ingredientes e instrucciones para una temperatura ambiente de 25º
 | Levadura fresca    | 10 gr      |
 | Huevo              | 2 unidades |
 | Ralladura de limón |            |
+** Magdalenas
+
+| Ingredientes       | Cantidad |
+|--------------------+----------|
+| Harina             | 210 gr   |
+| Azúcar             | 160 gr   |
+| Huevos             | 2        |
+| Aceite de oliva    | 160 cc   |
+| Leche              | 80 cc    |
+| Levadura química   | 7 gr     |
+| Sal                | 2 gr     |
+| Ralladura de limón |          |
+| Canela             |          |
+
+
 * Salsas y Aliños
 ** Bechamel
 
