@@ -81,6 +81,32 @@ Añadir la sal justo antes de cocinar.
 | Sal         | 12 g     |
 |-------------+----------|
 
+
+
+Nueva receta 2020
+
+| Ingrediente | Porcentaje |
+|-------------+------------|
+| Harina      |       100% |
+| Agua        |        70% |
+| Masa Madre  |        20% |
+| Sal         |         2% |
+|-------------+------------|
+
+*** Pan de 1Kg
+
+**** 70% humedad 20% masa madre.
+
+| Ingrediente | Cantidad |
+|-------------+----------|
+| Harina      | 520 g    |
+| Agua        | 364 g    |
+| Masa Madre  | 104 g    |
+| Sal         | 10.4 g   |
+|-------------+----------|
+
+
+
 ** Masa Madre Centeno
 
 | Ingrediente | Porcentaje |
@@ -146,6 +172,18 @@ Ingredientes e instrucciones para una temperatura ambiente de 25º
 |               |          |
 |               |          |
 
+
+
+Para 4 pizzas de ~210gr al 60% de hidratación
+| Ingredientes  | Cantidad |
+|---------------+----------|
+| Harina normal | 440 gr   |
+| Agua          | 200 gr   |
+| Aceite        | 22 gr    |
+| Masa Madre    | 200 gr   |
+| Sal           | 14 gr    |
+|               |          |
+|               |          |
 
 * Repostería
 ** Galletas de avena (Ikea)
@@ -214,13 +252,64 @@ Ingredientes e instrucciones para una temperatura ambiente de 25º
 | Harina             | 210 gr   |
 | Azúcar             | 160 gr   |
 | Huevos             | 2        |
-| Aceite de oliva    | 160 cc   |
-| Leche              | 80 cc    |
+| Aceite de oliva    | 150 cc   |
+| Leche              | 90 cc    |
 | Levadura química   | 7 gr     |
 | Sal                | 2 gr     |
 | Ralladura de limón |          |
 | Canela             |          |
 
+** Almohajabena
+   Almogabena
+   Para la masa
+   500ccl agua
+   250ccl aceite
+   500gr. Harina
+   9 huevos
+   Se hierve el agua junto al aceite, y cuando rompa a hervir se añade la harina y se mezcla bien, cuando se enfríe la masa es añaden los huevos, y se pone en la llanda la masa redondeando el centro y al horno hasta que estén doradas
+   Mojar en almíbar
+   Yo pongo la misma cantidad de agua que de azúcar
+   1litro de agua
+   1kilo de azúcar
+   Y un chorrito de miel, todo hervido y ya está el almíbar. Gracias
+* Postres
+** Arroz con leche
+http://www.restaurantecasagerardo.es/recetas/receta-arroz-con-leche/
+
+| Ingredientes    | Cantidad |
+|-----------------+----------|
+| Arroz bomba     | 100 gr   |
+| Agua            | 200 gr   |
+| Canela          | 1 rama   |
+| Leche uperisada | 1,3l     |
+| Azucar          | 160 gr   |
+| Mantequlla      | 50gr     |
+| Sal             | 1 gr     |
+
+
+
+* Empanadas
+** Empanada gallega de pisto
+
+*** Para la massa
+| Ingredientes    | Cantidad |
+|-----------------+----------|
+| Harina          | 500 gr   |
+| Sal             | 14 gr    |
+| Aceite de Oliva | 200 ml   |
+| Cerveza         | 200 ml   |
+|-----------------+----------|
+
+*** Para el relleno
+| Ingredientes     | Cantidad |
+|------------------+----------|
+| Pimiento Rojo    |        1 |
+| Cebolla          |        1 |
+| Calabacín        |        1 |
+| Tomate Triturado |   400 ml |
+| Huevo Hervido    |        2 |
+| Atún             |  3 Latas |
+|------------------+----------|
 
 * Salsas y Aliños
 ** Bechamel
@@ -261,12 +350,12 @@ Ingredientes e instrucciones para una temperatura ambiente de 25º
 | Nuez Moscada |          |
 
 ** Sushi-zu
-   Por cada taza de arroz (250 ml)
+   Por cada 150 gr de arroz
 
 | Ingredientes     | Cantidad |
 |------------------+----------|
-| Vinagre de arroz | 60 gr    |
-| Azucar           | 30 gr    |
+| Vinagre de arroz | 50 gr    |
+| Azucar           | 18 gr    |
 | Sal              | 1,5 gr   |
 |                  |          |
 ** Strogonoff
