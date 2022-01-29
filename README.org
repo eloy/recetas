@@ -151,16 +151,34 @@ Ingredientes e instrucciones para una temperatura ambiente de 25º
 | Sal                  | 10 gr    |
 |                      |          |
 *** Masa Madre
+Para 500 gr de masa:
 
 | Ingredientes  | Cantidad |
 |---------------+----------|
-| Harina normal | 410 gr   |
-| Agua          | 210 gr   |
-| Aceite        | 20 gr    |
-| Masa Madre    | 145 gr   |
-| Sal           | 10 gr    |
+| Harina normal | 268 gr   |
+| Agua          | 168 gr   |
+| Aceite        | 6 gr     |
+| Masa Madre    | 54 gr    |
+| Sal           | 6 gr     |
 |               |          |
 |               |          |
+
+
+
+
+Experimento 70% 960Gr de masa
+
+| Ingredientes  | Cantidad |
+|---------------+----------|
+| Harina normal | 508 gr   |
+| Agua          | 328 gr   |
+| Aceite        | 12 gr    |
+| Masa Madre    | 100 gr   |
+| Sal           | 12 gr    |
+|               |          |
+|               |          |
+
+
 *** Masa madre centeno
 | Ingredientes  | Cantidad |
 |---------------+----------|
@@ -241,6 +259,7 @@ Para 4 pizzas de ~210gr al 60% de hidratación
 | Infusión           | ~120 gr    |
 | Harina de fuerza   | 340 gr     |
 | Azucar             | 80 gr      |
+| Sal                | 2 gr       |
 | Mantequilla        | 60 gr      |
 | Levadura fresca    | 10 gr      |
 | Huevo              | 2 unidades |
@@ -377,3 +396,12 @@ http://www.restaurantecasagerardo.es/recetas/receta-arroz-con-leche/
 - Añadimos el coñac y esperamos que se consuma el alcohol.
 - Echamos la ternera y sus jugos de nuevo a la sartén.
 - Añadimos la nata y la cucharada de mostaza de dijón. Ahora es el momento de añadir sal al gusto, y mas pimienta si fuera necesario.
+** Agua de Lourdes
+Para hidratar pescado. Cocinar el pescado al horno entre 180º y 200º unos 15 minutos por kilo
+
+| Ingredientes    | Cantidad |
+|-----------------+----------|
+| Aceita de Oliva | 1 Litro  |
+| Vinagre         | 20 gr    |
+| Sal             | Al gusto |
+|                 |          |
